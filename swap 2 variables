@@ -5,3 +5,16 @@ a,b = b,a
 
 print(a)
 print(b)
+
+
+#Another method is with formula 
+
+a = 5
+b = 6
+
+a = a+b
+a = a-b
+b = a-b
+
+print(a)
+print(b)
